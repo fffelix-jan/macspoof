@@ -8,4 +8,3 @@ To view and edit the code, simply open "MacSpoof.app" with Script Editor.
 
 ## Download
 [Find the latest releases here.](https://github.com/fffelix-jan/macspoof/releases)  
-The first time you run the app, you must right-click it and click "Open" to bypass Gatekeeper, as the app is not digitally signed and notarized.
